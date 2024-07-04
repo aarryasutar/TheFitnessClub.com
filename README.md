@@ -50,4 +50,4 @@ This HTML file defines the structure for FitnessClub, a fitness-oriented website
 
 ---
 
-This structure provides a comprehensive overview of what each section of your HTML code accomplishes, helping visitors understand the layout and functionality of your FitnessClub website. Adjust the descriptions as needed to match any specific functionalities or design choices you've implemented.
+
