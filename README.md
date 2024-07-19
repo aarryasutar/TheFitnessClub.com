@@ -1,7 +1,3 @@
-# TheFitnessClub.com
-To explain your HTML code effectively for users visiting your GitHub profile, you can structure your explanation as follows:
-
----
 
 ### FitnessClub Website HTML Structure
 
